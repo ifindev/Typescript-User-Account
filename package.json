@@ -1,0 +1,19 @@
+{
+  "name": "bankapp",
+  "version": "1.0.0",
+  "description": "Simulation of bank application built using typescript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Arifin",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "bcrypt": "^5.0.1"
+  }
+}
